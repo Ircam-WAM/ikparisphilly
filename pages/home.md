@@ -11,7 +11,7 @@ Summary: Improtech Paris - Philly 2017 gathers scholars, technologists, musician
 <br>
 **11th - 13th**, **Workshop** keynotes, presentations, demos and performances at U.Penn, Drexel U. and ICA,  from 9:30 - 18:00  
 **11th**, **Evening concert #1** at the Annenberg Center for the Performing Arts  
-**13th**, **Evening concert #2** at The Rotunda   
+**13th**, **Evening concert #2** at The Rotunda
 <br>
 <br>
 
