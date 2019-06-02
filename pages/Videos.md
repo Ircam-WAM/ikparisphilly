@@ -5,7 +5,7 @@ title: Videos
  [Retrieve a video archive of workshops highlights including participant interviews](https://vimeo.com/album/5236593)
 
  <br>
- Credit : Jeff Joly 2017
+ Credit : Jeff Joly 2017 
 
  <br><br>
 
