@@ -9,8 +9,21 @@ title: Videos
 
  <br><br>
 
+### Video of Concert at Annenberg Center Dec 11 2017
+
+ <iframe src="https://player.vimeo.com/video/322817333" width="640" height="272" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+ <br><br>
+
+### Video of Concert at The Rotunda Dec 13 2017
+
+<iframe src="https://player.vimeo.com/video/325304296" width="640" height="272" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+ <br><br>
+
  <iframe src="https://player.vimeo.com/video/255067410" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/255067410">Presentation Improtech Paris - Philly 2017</a> from <a href="https://vimeo.com/user15042869">RepMus</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p>
+	<a href="https://vimeo.com/255067410">Presentation Improtech Paris - Philly 2017</a> from <a href="https://vimeo.com/user15042869">RepMus</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
  <br><br>
 
@@ -21,6 +34,7 @@ title: Videos
 
 <iframe src="https://player.vimeo.com/video/247174605" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/247174605">Bob Ostertag  Keynote at ImproTech Paris - Philly 2017</a> from <a href="https://vimeo.com/user15042869">RepMus</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 
  <br><br>
 
