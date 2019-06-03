@@ -5,11 +5,11 @@ title: Videos
  [Retrieve a video archive of workshops highlights including participant interviews](https://vimeo.com/album/5236593)
 
  <br>
- Credit : Jeff Joly 2017 
+ Credit : Jeff Joly 2017
 
  <br><br>
 
-### Video of Concert at Annenberg Center Dec 11 2017
+### Video of Concert at Annenberg Center Dec 11 2017 
 
  <iframe src="https://player.vimeo.com/video/322817333" width="640" height="272" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
