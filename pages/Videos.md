@@ -2,25 +2,34 @@ title: Videos
 
 ---
 
+Retrieve Concerts, interviews and workshop videos on [Vimeo](https://vimeo.com/album/5236593), or browse through :
 
- [Retrieve a video archive of workshops highlights including participant interviews](https://vimeo.com/album/5236593)
+ <iframe src="https://vimeo.com/showcase/5236593/embed" width="720" height="405" allowfullscreen frameborder="0"></iframe>
 
  <br>
- Credit : Jeff Joly 2017
 
- <br><br>
+ <iframe src="https://vimeo.com/showcase/5236593/embed" width="720" height="405" allowfullscreen frameborder="0"></iframe>
 
-### Video of Concert at Annenberg Center Dec 11 2017
+<br>
+
+### Full Concert at Annenberg Center Dec 11 2017
 
  <iframe src="https://player.vimeo.com/video/322817333" width="640" height="272" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
  <br><br>
 
-### Video of Concert at The Rotunda Dec 13 2017
+### Full Concert at The Rotunda Dec 13 2017
 
 <iframe src="https://player.vimeo.com/video/325304296" width="640" height="272" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
  <br><br>
+
+
+
+
+
+<!--
+
 
  <iframe src="https://player.vimeo.com/video/255067410" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p>
@@ -63,7 +72,7 @@ title: Videos
 
 <iframe src="https://player.vimeo.com/video/275513342" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/275513342">Workshop Dec 13,  Improtech Paris - Philly 2017</a> from <a href="https://vimeo.com/user15042869">RepMus</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
+-->
 
  <br><br>
 
