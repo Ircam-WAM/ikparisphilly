@@ -12,7 +12,7 @@ Retrieve Concerts, interviews and workshop videos on [Vimeo](https://vimeo.com/a
 
  <iframe src="https://player.vimeo.com/video/322817333" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
- <br><br>
+ <br>
 
 ### Full Concert at The Rotunda Dec 13 2017
 
